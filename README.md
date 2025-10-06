@@ -55,7 +55,7 @@ This scatterplot shows the clusters of Netflix movies by **duration** (x-axis) a
 
 ---
 
-## 🔎 Analysis & Insights
+## Analysis & Insights
 
 1. **Dramas Split into Two Clusters**  
    - **Cluster 0**: Standard dramas (~100 min) with strong ratings.  
